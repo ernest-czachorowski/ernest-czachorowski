@@ -22,7 +22,7 @@ Currently, I am learning web development, including TypeScript, React, and other
 
 ### 🤔 I’m looking for help with:
 
-I would like to create games for children similar to FunEduFarm. However, as the only programmer on the FunEduApp team (www.funeduapp.com), I do not have enough time or financial resources to independently code and test a large number of features. Therefore, I am seeking individuals interested in developing games, as well as financial support and social media promotion to help bring my vision to life.
+I would like to create games for children similar to FunEduFarm. However, as the only programmer on the FunEduApp team (www.funeduapp.com), I do not have enough time and financial resources to independently code and test a large number of features. Therefore, I am seeking individuals interested in developing games, as well as financial support and social media promotion to help bring my vision to life.
 
 ### 📫 How to reach me:
 * LinkedIn: www.linkedin.com/in/ernest-czachorowski

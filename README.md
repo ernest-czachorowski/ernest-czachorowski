@@ -13,6 +13,7 @@ Please leave a comment in the store. Thank you!
 ### Here's a FunEduFarm gameplay video:
 
 No worries. The boy from the video does not play every day. He is only given a tablet occasionally, for example, during doctor's visits, etc.
+
 [![FunEduFarm Gameplay Video](https://img.youtube.com/vi/_tNjLeqw-GE/0.jpg)](https://www.youtube.com/watch?v=_tNjLeqw-GE)
 
 ### 🌱 I’m currently learning:

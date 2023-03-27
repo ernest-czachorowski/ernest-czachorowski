@@ -6,9 +6,9 @@ Feel free to check out my projects in the repository. If you want to see an exam
 
 Please leave a comment in the store. Thank you!
 
-*(Paid)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm
-*(✨Free✨)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm.Demo
-*(Paid)* iOS - https://apps.apple.com/us/app/funedufarm/id1620767523
+* *(Paid)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm
+* *(✨Free✨)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm.Demo
+* *(Paid)* iOS - https://apps.apple.com/us/app/funedufarm/id1620767523
 
 ### Here's a FunEduFarm gameplay video:
 
@@ -24,5 +24,5 @@ Currently, I am learning web development, including TypeScript, React, and other
 I would like to create games for children similar to FunEduFarm. However, as the only programmer on the FunEduApp team (www.funeduapp.com), I do not have enough time or financial resources to independently code and test a large number of features. Therefore, I am seeking individuals interested in developing games, as well as financial support and social media promotion to help bring my vision to life.
 
 ### 📫 How to reach me:
-LinkedIn: www.linkedin.com/in/ernest-czachorowski
-Email: (for now please use): - funeduapp@gmail.com
+* LinkedIn: www.linkedin.com/in/ernest-czachorowski
+* Email: (for now please use): - funeduapp@gmail.com

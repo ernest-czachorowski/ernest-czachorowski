@@ -8,7 +8,7 @@ Please leave a comment in the store. Thank you!
 
 * *(Paid)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm
 * *(✨Free✨)* Android - https://play.google.com/store/apps/details?id=com.FunEduApp.FunEduFarm.Demo
-* *(Paid)* iOS - https://apps.apple.com/us/app/funedufarm/id1620767523
+* *(✨Free✨)* iOS - https://apps.apple.com/us/app/funedufarm/id1620767523
 
 ### Here's a FunEduFarm gameplay video:
 

@@ -1,7 +1,5 @@
 # Welcome to my GitHub Profile.
 
-Feel free to check out my projects in the repository. If you want to see an example of my code, I suggest you take a look at this project: https://github.com/ernest-czachorowski/KidsAppsSelection-Preview
-
 ### Check out my game for toddlers, FunEduFarm:
 
 Please leave a comment in the store. Thank you!
